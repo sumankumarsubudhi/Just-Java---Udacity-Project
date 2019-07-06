@@ -1,1 +1,1 @@
-# Just-Java---Udacity-Project
+# Just Java Sample app
