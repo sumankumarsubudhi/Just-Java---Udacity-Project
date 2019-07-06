@@ -9,3 +9,5 @@ This app displays an order form for coffee. Used in the Udacity Android for Begi
 * Android Support Repository v24.2.0
 
 ## Getting Started
+
+This app uses the Gradle build system. To build this project, use the "gradlew build" command or use "Import Project" in Android Studio.
